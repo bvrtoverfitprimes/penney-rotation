@@ -1,0 +1,362 @@
+[
+ {
+  "k": 3,
+  "n": 4,
+  "minimum": 1,
+  "index": 1,
+  "a": 2,
+  "b": 3,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 3,
+  "n": 5,
+  "minimum": 2,
+  "index": 1,
+  "a": 8,
+  "b": 10,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 4,
+  "n": 5,
+  "minimum": 1,
+  "index": 9,
+  "a": 3,
+  "b": 4,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 3,
+  "n": 6,
+  "minimum": 5,
+  "index": 1,
+  "a": 34,
+  "b": 39,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 4,
+  "n": 6,
+  "minimum": 6,
+  "index": 9,
+  "a": 18,
+  "b": 24,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 5,
+  "n": 6,
+  "minimum": 1,
+  "index": 13,
+  "a": 4,
+  "b": 5,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 3,
+  "n": 7,
+  "minimum": 22,
+  "index": 1,
+  "a": 158,
+  "b": 180,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 4,
+  "n": 7,
+  "minimum": 32,
+  "index": 9,
+  "a": 116,
+  "b": 148,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 5,
+  "n": 7,
+  "minimum": 7,
+  "index": 13,
+  "a": 28,
+  "b": 35,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 6,
+  "n": 7,
+  "minimum": 1,
+  "index": 153,
+  "a": 5,
+  "b": 6,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 3,
+  "n": 8,
+  "minimum": 102,
+  "index": 1,
+  "a": 862,
+  "b": 964,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 4,
+  "n": 8,
+  "minimum": 252,
+  "index": 9,
+  "a": 883,
+  "b": 1135,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 5,
+  "n": 8,
+  "minimum": 56,
+  "index": 33,
+  "a": 224,
+  "b": 280,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 6,
+  "n": 8,
+  "minimum": 8,
+  "index": 153,
+  "a": 40,
+  "b": 48,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 7,
+  "n": 8,
+  "minimum": 1,
+  "index": 373,
+  "a": 6,
+  "b": 7,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 3,
+  "n": 9,
+  "minimum": 587,
+  "index": 1,
+  "a": 5270,
+  "b": 5857,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 4,
+  "n": 9,
+  "minimum": 2096,
+  "index": 9,
+  "a": 7383,
+  "b": 9479,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 5,
+  "n": 9,
+  "minimum": 469,
+  "index": 33,
+  "a": 1981,
+  "b": 2450,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 6,
+  "n": 9,
+  "minimum": 72,
+  "index": 153,
+  "a": 360,
+  "b": 432,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 7,
+  "n": 9,
+  "minimum": 9,
+  "index": 373,
+  "a": 54,
+  "b": 63,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 8,
+  "n": 9,
+  "minimum": 1,
+  "index": 5913,
+  "a": 7,
+  "b": 8,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 3,
+  "n": 10,
+  "minimum": 4120,
+  "index": 1,
+  "a": 35465,
+  "b": 39585,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 4,
+  "n": 10,
+  "minimum": 19756,
+  "index": 9,
+  "a": 68818,
+  "b": 88574,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 5,
+  "n": 10,
+  "minimum": 4685,
+  "index": 33,
+  "a": 19634,
+  "b": 24319,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 6,
+  "n": 10,
+  "minimum": 720,
+  "index": 153,
+  "a": 3600,
+  "b": 4320,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 7,
+  "n": 10,
+  "minimum": 90,
+  "index": 873,
+  "a": 540,
+  "b": 630,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 8,
+  "n": 10,
+  "minimum": 10,
+  "index": 5913,
+  "a": 70,
+  "b": 80,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 9,
+  "n": 10,
+  "minimum": 1,
+  "index": 20533,
+  "a": 8,
+  "b": 9,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 3,
+  "n": 11,
+  "minimum": 30624,
+  "index": 1,
+  "a": 263927,
+  "b": 294551,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 4,
+  "n": 11,
+  "minimum": 201326,
+  "index": 9,
+  "a": 707297,
+  "b": 908623,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 5,
+  "n": 11,
+  "minimum": 50883,
+  "index": 33,
+  "a": 213013,
+  "b": 263896,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 6,
+  "n": 11,
+  "minimum": 7794,
+  "index": 153,
+  "a": 39474,
+  "b": 47268,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 7,
+  "n": 11,
+  "minimum": 990,
+  "index": 873,
+  "a": 5940,
+  "b": 6930,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 8,
+  "n": 11,
+  "minimum": 110,
+  "index": 5913,
+  "a": 770,
+  "b": 880,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 9,
+  "n": 11,
+  "minimum": 11,
+  "index": 20533,
+  "a": 88,
+  "b": 99,
+  "negative": 0,
+  "zero": 0
+ },
+ {
+  "k": 10,
+  "n": 11,
+  "minimum": 1,
+  "index": 409113,
+  "a": 9,
+  "b": 10,
+  "negative": 0,
+  "zero": 0
+ }
+]
