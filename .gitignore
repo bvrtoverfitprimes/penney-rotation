@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.exe
+code/first_counts
+code/linear_extensions
+lean/.lake/
