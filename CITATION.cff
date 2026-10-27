@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite this repository as below."
+title: "The rotation strategy in Penney's game for permutations: data, tables, code, and proofs"
+authors:
+  - family-names: "Roy Choudhury"
+    given-names: "Himaghna"
+date-released: 2026-10-27
+repository-code: "https://github.com/bvrtoverfitprimes/penney-rotation"
+license:
+  - MIT
+  - CC-BY-4.0
