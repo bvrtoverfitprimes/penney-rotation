@@ -1,0 +1,15 @@
+name = "penney"
+version = "0.1.0"
+defaultTargets = ["Rotation", "CertDefs"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "7d6757bc18680044fc0ff6efc8ee20494b408556"
+
+[[lean_lib]]
+name = "Rotation"
+
+[[lean_lib]]
+name = "CertDefs"
+precompileModules = true
